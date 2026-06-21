@@ -11,45 +11,60 @@ QA Analyst with experience in:
 - Data Quality Assurance
 
 ## SQL Topics Covered
+
+- Strong Foundation in SQL
 - SQL Database
 - SQL Tables
-- SQL Constraints
-- SQL Joins
+- SQL Queries
+- SQL Clauses
+- SQL Operators
+- SQL Functions
+- Data Constraints
+- SQL Joins and Operations
 - SQL Views
 - SQL Indexes
 - SQL Subqueries
-- SQL Stored Procedures
-- SQL Triggers
-- Database Design & Modeling
+- Database Design and Modeling
 - Database Security
-- Performance Tuning
+- Miscellaneous SQL Topics
 
 ## Repository Contents
+
 This repository contains:
+
 - SQL Cheat Sheets
 - SQL Notes
-- Practice Queries
-- Interview Questions
-- Real-World Examples
+- Practical Examples
+- Query References
 - Learning Roadmaps
+- Interview Preparation Material
+- Real-World SQL Concepts
 
 ## Current Learning Focus
+
 - Advanced SQL
 - Data Analytics
 - ETL Testing
 - Data Quality Validation
 - Data Migration Testing
 - PostgreSQL
+- Database Design
+- Query Optimization
 
 ## Goal
-To strengthen SQL, Data Analytics, ETL Testing, and Data Quality skills while building a public portfolio of learning resources and projects.
+
+To strengthen SQL, Data Analytics, ETL Testing, Data Migration Validation and Data Quality skills while building a structured public portfolio of learning resources and practical examples.
 
 ## Upcoming Projects
+
 - E-Commerce SQL Analysis
-- Sales Dashboard Analysis
+- Sales Analytics Dashboard
+- Customer Insights Analysis
 - ETL Validation Scenarios
 - Data Migration Testing Examples
 - SQL Interview Preparation
+- PostgreSQL Practice Projects
+- Data Warehouse Testing Scenarios
 
 ## Connect With Me
 LinkedIn: 
